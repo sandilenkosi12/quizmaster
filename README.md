@@ -30,7 +30,7 @@ A feature-rich quiz application with multiple categories, difficulty levels, tim
 - 📍 Katlehong, Gauteng
 
 ## 🚀 Live Demo
-[View Live Demo](https://your-username.github.io/quiz-app)
+[View Live Demo][(https://your-username.github.io/quiz-app)](https://sandilenkosi12.github.io/quizmaster/)
 
 ## 📦 Installation
 1. Clone the repository
